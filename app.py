@@ -18,6 +18,7 @@ if __name__ == "__main__":
     print("subtract(5,3) =", subtract(5,3))
     print("multiply(5,3) =", multiply(5,3))
     print("divide(6,2) =", divide(6,2))
+    print("power(2,3) =", power(2,3))
 
 ```python
 def power(a, b):
